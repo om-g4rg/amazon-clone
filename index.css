@@ -1,0 +1,390 @@
+div{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content:space-around;
+}
+#taskone{
+    height: 58px;
+    background-color:#131A22;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#down{
+    display: inline-block;
+    flex-wrap: wrap;
+}
+#mag{
+    color:#131A22;
+}
+#india{
+    height: 17px;
+}
+#dot{
+    color:white
+}
+#cart{
+    width: 35px;
+    font-size: 35px;
+}
+#map{
+    width: 31px;
+    font-size: 27px;
+    padding-left: 3px;
+}
+#tasktwo{
+    height: 45px;
+    background-color: #232F3E;
+    justify-content: left;
+    margin-left: -10px;
+    margin-right: -10px; 
+}
+#menubar{
+    display: inline;
+    margin-right: 4px;
+}
+#menu{
+    margin-left: 20px;
+    margin-bottom: 3px;
+    background-color: white;
+    width: 20px;
+    height:3px;
+}
+#logo{
+    height: 28px;
+}
+.topt:hover{
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.topt{
+    height:40px ;
+    display: flex;
+    align-items: center;
+    margin: 2px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+#box{
+    display: flex;
+    list-style: none;
+}
+#search{
+    width: 700px;
+    height: 40px;
+}
+.all{
+    height: 40px;
+    width: spx;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(223, 222, 222);
+}
+.button:hover{
+    background-color: hsl(42, 87%, 52%);
+}
+.topt{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+#one{
+    font-size: 15px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.button{
+    height: 40px;
+    width: 45px;
+    border: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: hsl(42, 77%, 68%);
+}
+#two{
+    margin-left: 5px;
+    font-size: 14px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#twobod{
+    height: 30px;
+    width:1333px;
+    font-size: 13px;
+    background-color: rgb(245, 245, 245);
+    position: absolute;
+    justify-content: center;
+    z-index: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -590px;
+}
+#banner{
+    margin-right:10px;
+    margin-left: 10px;
+    width:1350px;
+    z-index: -1;
+}
+#length{
+
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 250px;
+    width: 1330px;
+    background-color: rgb(249, 249, 249);
+}
+#ulen{
+    margin-left: -70px;
+    margin-top: -20px;
+}
+#hlen{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#len{
+    height: 170px;
+    padding-right: 10px;
+}
+#lenx{
+    height: 150px;
+    padding-right: 10px;
+}
+#onespan{
+    z-index: 2px;
+    background-color: white;
+    padding:5px;
+    border: 1px solid rgb(254, 254, 254);
+    position: relative;
+}
+#stkone{
+    margin-top: -270px;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+#space{
+    height: 300px;
+}
+#cube{
+    margin-top: 10px;
+    margin-bottom:10px;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(249, 249, 249);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    flex-wrap: wrap;
+}
+#ocube{
+    margin-top: -20px;
+    margin-left: -10px;
+    width:300px;
+}
+#chair{
+    margin-left: -3px;
+    height: 200px;
+    width: 250px;
+    align-content:flex-start;
+}
+#four{
+    height: 90px;
+}
+#fourx{
+    height: 114px;
+}
+#xfour{
+    height: 63px;
+}
+#shop{
+    color: rgb(61, 167, 209);
+    text-decoration: none;
+    font-size: 12px;
+}
+#shop:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#footzero{
+    height:100px;
+    border:1px solid rgb(220, 216, 216);
+    margin-bottom: 22px;
+    margin-top: 22px;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#zbutton{
+    background-color: hsl(46, 100%, 55%);
+    height: 40px;
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border: 2px solid hsl(42, 87%, 61%);
+    border-radius: 10px;
+}
+#zlink{
+    color: rgb(61, 167, 209);
+    text-decoration: none;
+}
+#zlink:hover{
+    color: orange;
+}
+.amain{
+    font-size: 13px;
+    color: rgb(61, 167, 209);
+    text-decoration: none;
+}
+.amain:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#zlnk{
+    color: rgb(52, 43, 43);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+#ztxt{
+    align-self: right;
+    margin-left: 600px;
+    margin-right:600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+#footone{
+    height: 40px;
+    background-color:#3d516a;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#footone:hover{
+    background-color: #4a5665;
+}
+#hone{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+#foottwo{
+    height: 200px;
+    background-color: #232F3E;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#htwo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#ultwo{
+    justify-content: left;
+    margin-left: -40px;
+}
+#ltwo{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+#ltwo:hover{
+    text-decoration: underline;
+}
+#ultwo{
+    list-style: none;
+}
+#footthree{
+    height: 80px;
+    background-color: #232F3E;
+    border-top: 1px solid rgb(112, 112, 112);
+    display: flex;
+    justify-content: center;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#globe{
+    padding-right: 3px;
+}
+#thlogo{
+    height: 25px;
+    display: flex;
+    margin-right: 0px;
+}
+#thtext{
+    text-decoration: none;
+    color: white;
+}
+#thbutton{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    height: 25px;
+    font-size: 12px;
+    background-color: #232F3E;
+    border-radius: 3px;
+    border:1px solid white;
+}
+#footfour{
+    height: 350px;
+    background-color: #131A22;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#ulfour{
+    margin-left: 250px;
+    margin-right: 250px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#frfoot{
+    padding: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#frfoot:hover{
+    text-decoration: underline;
+}
+#sfour{
+    font-size: 11px;
+    margin-left: 5px;
+}
+#lifour{
+    padding: 3px;
+    height: 100px;
+    width: 100px;
+}
+#footfive{
+    height: 80px;
+    background-color: #131A22;    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+}
+.ftfive{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ftfive:hover{
+    text-decoration: underline;
+}
+#sfive{
+    margin-left: 30px;
+}
+#sfive:hover{
+    text-decoration: none;
+}
+.ulfive{
+    list-style:none;
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
